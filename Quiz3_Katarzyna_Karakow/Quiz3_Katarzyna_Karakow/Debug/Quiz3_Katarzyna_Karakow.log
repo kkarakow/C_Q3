@@ -1,0 +1,4 @@
+﻿  Program.c
+C:\Users\katekarakow\source\repos\Quiz3_Katarzyna_Karakow\Quiz3_Katarzyna_Karakow\Program.c(11,48): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\katekarakow\source\repos\Quiz3_Katarzyna_Karakow\Quiz3_Katarzyna_Karakow\Program.c(11,48): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Quiz3_Katarzyna_Karakow.vcxproj -> C:\Users\katekarakow\source\repos\Quiz3_Katarzyna_Karakow\Debug\Quiz3_Katarzyna_Karakow.exe
